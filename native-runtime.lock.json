@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "name": "dsha-native-runtime",
+  "dshVersion": "0.2.2-rc.1",
+  "dshRuntime": "c1bd68330a10776f304a92a19d8f82c184c1abf523275a9e28dbb2c2e764e4fe",
+  "archive": {
+    "name": "pkg-r1.zip",
+    "sha256": "35701db4231153200cd61b740090ecf88e98f75f1a23e5e60c4e1f3bf348c489",
+    "bytes": 120889177
+  },
+  "release": "r1",
+  "urls": [
+    "https://api.github.com/repos/133563825as-ai/DSHA-god/releases/assets/728304048",
+    "https://github.com/133563825as-ai/DSHA-god/releases/download/r1/pkg-r1.zip"
+  ]
+}
